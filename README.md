@@ -9,7 +9,7 @@
   <a href="https://www.kaggle.com/saichaitanyareddyai" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:YOUREMAIL@gmail.com">
+  <a href="mailto:sai.chaitanya.reddy.in@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
