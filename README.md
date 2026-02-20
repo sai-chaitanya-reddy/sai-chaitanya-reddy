@@ -1,71 +1,61 @@
-# End-to-End Machine Learning Project – Fraud Detection
+# 👋 Hi, I'm Sai Chaitanya Reddy
 
-## Overview
-This project demonstrates an end-to-end Machine Learning workflow applied to a real-world fraud detection problem using highly imbalanced transaction data.  
-The objective is to identify fraudulent transactions accurately while minimizing false positives.
+## Data Science & Machine Learning Engineer
 
-This repository showcases practical skills in data analysis, feature engineering, model building, and evaluation, aligned with industry expectations for Data Scientist and Machine Learning Engineer roles.
+AI & Data Science graduate specializing in **data analysis, machine learning, and predictive modeling**.  
+Experienced in solving real-world business problems using **Python, SQL, and ML pipelines**.  
+Actively seeking **internships and entry-level roles** in Data Science and Machine Learning.
 
-## Problem Statement
-Financial fraud causes significant losses to organizations.  
-The challenge lies in detecting fraudulent transactions where fraud cases are rare and incorrect predictions have high business impact.
 
-## Dataset
-- Structured tabular dataset
-- Highly imbalanced target variable
-- Binary classification problem
 
-## Project Workflow
-1. Data Cleaning and Preprocessing  
-2. Exploratory Data Analysis (EDA)  
-3. Feature Engineering  
-4. Handling Class Imbalance  
-5. Model Training  
-6. Model Evaluation  
+## 🧠 Core Skills
 
-## Exploratory Data Analysis
-- Distribution analysis
-- Correlation analysis
-- Class imbalance visualization
+**Programming:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+**Machine Learning:** Scikit-learn  
+**Techniques:** EDA, Feature Engineering, Classification, Regression, Model Evaluation  
+**Tools:** Jupyter Notebook, Git, GitHub, Kaggle  
 
-## Feature Engineering
-- Feature selection
-- Scaling and normalization
-- Encoding techniques
 
-## Machine Learning Models
-- Logistic Regression
-- Random Forest Classifier
+## 📌 Featured Projects
 
-## Evaluation Metrics
-- Precision
-- Recall
-- F1-Score
-- Confusion Matrix
+### 🔍 Fraud Detection ML Pipeline
+- Built an **end-to-end classification pipeline** on highly imbalanced transaction data
+- Applied **data preprocessing, feature engineering, and SMOTE**
+- Evaluated models using **Precision, Recall, F1-Score, ROC-AUC**
+- Improved fraud detection accuracy with optimized model selection
 
-## Results
-The final model demonstrates improved fraud detection performance with a balanced trade-off between precision and recall.
+**Tech Stack:** Python, Pandas, Scikit-learn
 
-## Technologies Used
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-- Jupyter Notebook
 
-## Repository Structure
-## How to Run
-1. Clone the repository
-2. Install dependencies
-3. Run the notebooks sequentially
+### 📉 Customer Churn Analysis
+- Conducted **exploratory data analysis (EDA)** to identify churn drivers
+- Built predictive models to classify customer churn risk
+- Generated **actionable insights** to support retention strategies
 
-## Author
-Sai Chaitanya Reddy  
-AI & Data Science Undergraduate  
-Aspiring Data Scientist / Machine Learning Engineer  
+**Tech Stack:** Python, Pandas, Seaborn, Scikit-learn
+
+
+### 🏠 House Price Prediction
+- Developed **regression models** for real-estate price forecasting
+- Handled missing values, outliers, and feature scaling
+- Evaluated models using **RMSE and R² score**
+
+**Tech Stack:** Python, Pandas, Scikit-learn
+
+
+### 🚗 Car Price Prediction
+- Performed **EDA, categorical encoding, and multicollinearity analysis (VIF)**
+- Built regression models to predict vehicle prices
+- Compared model performance using multiple evaluation metrics
+
+**Tech Stack:** Python, Scikit-learn
+
 
 ## 🌐 Profiles
-- 🔗 LinkedIn: https://www.linkedin.com/in/sai-chaitanya-reddy-in/
-- 🔗 Kaggle: https://www.kaggle.com/saichaitanyareddyai
+- **LinkedIn:** https://www.linkedin.com/in/sai-chaitanya-reddy-in/
+- **Kaggle:** https://www.kaggle.com/saichaitanyareddyai
 
+---
 
+📌 *I believe strong data tells strong stories.*
