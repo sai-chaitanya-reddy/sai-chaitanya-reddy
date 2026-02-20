@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-chaitanya-reddy-in/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/saichaitanyareddyai)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.chaitanya.reddy.in@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=sai-chaitanya-reddy&label=Profile%20Views&color=00b4d8&style=flat" alt="Profile Views" />
 &nbsp;
@@ -29,7 +29,7 @@
 ## 🧬 About Me
 ```yaml
 Name        : Sai Chaitanya Reddy
-Degree      : B.Tech in AI & Data Science   # add your college name here
+Degree      : B.Tech in AI & Data Science (Vasireddy Venkatadri Institute of                  Technology)
 Location    : Hyderabad, India 🇮🇳
 Languages   : Python | SQL
 Core Skills : EDA | Classification | Regression | Feature Engineering | SMOTE
