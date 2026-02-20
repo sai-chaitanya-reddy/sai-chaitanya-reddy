@@ -22,7 +22,7 @@ AI & Data Science graduate specializing in **data analysis, machine learning, an
 Experienced in solving real-world business problems using **Python, SQL, and end-to-end ML pipelines**.
 Actively seeking **internships and entry-level roles** in Data Science and Machine Learning.
 
-- 🎓 **Education**: B.Tech in AI & Data Science *(update with your actual college name)*
+- 🎓 **Education**: B.Tech in AI & Data Science *(Vasireddy Venkatadri Institute of Technology)*
 - 📍 **Location**: Hyderabad, India
 - 🔍 **Open To**: Data Science Intern · ML Engineer Intern · Data Analyst · Junior Data Scientist
 - 💡 **Motto**: *Strong data tells strong stories.*
