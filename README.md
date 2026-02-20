@@ -41,76 +41,113 @@ Motto       : "Strong data tells strong stories."
 ---
 
 ## 🛠️ Tech Stack & Tools
+> 👆 Click any section below to expand and explore
 
-<div align="center">
+<details>
+<summary><b>💻 Programming Languages — Python & SQL</b></summary>
+<br/>
 
-### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+| Skill | Experience | Used In |
+|---|---|---|
+| Python | ⭐⭐⭐⭐ Advanced | All ML Projects |
+| SQL | ⭐⭐⭐ Intermediate | Data Querying & Analysis |
+
+✅ Writing clean, efficient Python scripts for end-to-end ML pipelines  
+✅ SQL for data extraction, transformation, and aggregation  
+✅ Pandas-based data wrangling as primary workflow  
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 Data Analysis & Visualization</b></summary>
 <br/>
 
-### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C84?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+| Library | Purpose |
+|---|---|
+| Pandas | Data cleaning, wrangling, aggregation |
+| NumPy | Numerical operations, array processing |
+| Matplotlib | Static charts, custom visualizations |
+| Seaborn | Statistical plots, heatmaps, distributions |
+| Plotly | Interactive dashboards and charts |
+
+✅ Performed EDA on 5+ real-world datasets  
+✅ Created visual insights for churn, fraud, and sales projects  
+✅ Built heatmaps, correlation matrices, and distribution plots  
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Machine Learning</b></summary>
 <br/>
 
-### 🤖 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
+| Algorithm | Type | Project Used |
+|---|---|---|
+| Logistic Regression | Classification | Fraud Detection, Churn |
+| Random Forest | Classification / Regression | Fraud, House Price |
+| Linear Regression | Regression | House Price, Car Price |
+| Decision Tree | Classification | Churn Analysis |
+| XGBoost | Boosting | Fraud Detection |
+
+✅ Built 6+ end-to-end ML models from scratch  
+✅ Applied SMOTE to handle class imbalance  
+✅ Performed hyperparameter tuning using GridSearchCV  
+
+</details>
+
+---
+
+<details>
+<summary><b>📏 Model Evaluation Metrics</b></summary>
 <br/>
 
-### ⚙️ ML Techniques
-![Classification](https://img.shields.io/badge/Classification-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-00B4D8?style=for-the-badge&logo=python&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-2EC4B6?style=for-the-badge&logo=python&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-F77F00?style=for-the-badge&logo=python&logoColor=white)
-![Cross Validation](https://img.shields.io/badge/Cross%20Validation-43AA8B?style=for-the-badge&logo=python&logoColor=white)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-9B2226?style=for-the-badge&logo=python&logoColor=white)
-
-<br/>
-
-### 📏 Evaluation Metrics
 ![ROC-AUC](https://img.shields.io/badge/ROC--AUC-FF006E?style=for-the-badge&logo=python&logoColor=white)
 ![F1 Score](https://img.shields.io/badge/F1--Score-FB5607?style=for-the-badge&logo=python&logoColor=white)
 ![Precision & Recall](https://img.shields.io/badge/Precision%20%26%20Recall-8338EC?style=for-the-badge&logo=python&logoColor=white)
 ![RMSE](https://img.shields.io/badge/RMSE-3A86FF?style=for-the-badge&logo=python&logoColor=white)
 ![R² Score](https://img.shields.io/badge/R²%20Score-06D6A0?style=for-the-badge&logo=python&logoColor=white)
 
-<br/>
+| Metric | Used For |
+|---|---|
+| Precision & Recall | Fraud Detection, Churn Prediction |
+| F1-Score | Imbalanced classification problems |
+| ROC-AUC | Model comparison and threshold selection |
+| RMSE | House Price and Car Price Prediction |
+| R² Score | Regression model performance |
 
-### 🗄️ Database & Query
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+✅ Selected best models using ROC-AUC curve analysis  
+✅ Used F1-Score as primary metric for imbalanced fraud data  
+✅ Compared RMSE across multiple regression models  
 
-<br/>
+</details>
 
-### 🧰 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-<br/>
-
-### 🌐 Platforms & Community
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 ---
 
+<details>
+<summary><b>⚙️ ML Techniques</b></summary>
+<br/>
+
+![EDA](https://img.shields.io/badge/EDA-2EC4B6?style=for-the-badge&logo=python&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-F77F00?style=for-the-badge&logo=python&logoColor=white)
+![Cross Validation](https://img.shields.io/badge/Cross%20Validation-43AA8B?style=for-the-badge&logo=python&logoColor=white)
+![VI
 ## 🚀 Featured Projects
 
 <div align="center">
