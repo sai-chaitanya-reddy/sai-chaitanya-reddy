@@ -92,20 +92,62 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div align="center">
+### 🔍 Fraud Detection ML Pipeline
+- Cleaned and preprocessed heavily imbalanced transaction data using SMOTE to address class imbalance
+- Engineered relevant features and trained classification models (Logistic Regression, Random Forest) using Scikit-learn
+- Evaluated models using ROC-AUC, Precision, Recall, and F1-Score, achieving strong fraud detection reliability
+- Built a complete end-to-end ML pipeline from raw data ingestion to model selection
 
-| 🔍 Project | 📋 Description | 🛠️ Tech Stack | 🔗 Link |
-|:---|:---|:---|:---:|
-| **Fraud Detection ML Pipeline** | End-to-end classification pipeline on imbalanced transaction data using SMOTE, feature engineering & optimized model selection | Python · Pandas · Scikit-learn · SMOTE | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy/fraud-detection-ml-pipeline) |
-| **Customer Churn Analysis** | EDA-driven predictive modeling to classify churn risk & generate actionable retention insights | Python · Pandas · Seaborn · Scikit-learn | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy/customer-churn-analysis-data) |
-| **House Price Prediction** | Regression models for real-estate price forecasting with missing value handling, outlier treatment & feature scaling | Python · Pandas · Scikit-learn | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy) |
-| **Car Price Prediction** | Multicollinearity analysis (VIF), categorical encoding & regression to predict vehicle market prices | Python · Scikit-learn | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy/car-price-prediction) |
-| **Diwali Sales Analysis** | EDA on festive sales data to uncover customer behavior patterns & strategic sales insights | Python · Pandas · Matplotlib | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy/diwali-sales-data-analysis) |
-| **Apple Products Data Analysis** | End-to-end data cleaning, exploration & insight generation on real-world structured Apple product data | Python · Pandas · Seaborn | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy/apple-products-data-analysis) |
+[View Repository →](https://github.com/sai-chaitanya-reddy/fraud-detection-ml-pipeline)
 
-</div>
+---
+
+### 📉 Customer Churn Analysis
+- Performed EDA on customer dataset to identify 3 key behavioral drivers of churn
+- Trained classification models to predict churn risk with measurable accuracy improvements
+- Generated actionable retention insights and business recommendations from model outputs
+- Applied feature selection and cross-validation to reduce overfitting
+
+[View Repository →](https://github.com/sai-chaitanya-reddy/customer-churn-analysis-data)
+
+---
+
+### 🏠 House Price Prediction
+- Built regression models for real-estate price forecasting using Python and Scikit-learn
+- Handled missing values, applied outlier treatment, and performed feature scaling for clean model input
+- Evaluated model performance using RMSE and R² to quantify prediction accuracy
+- Identified top features influencing property prices through feature importance analysis
+
+[View Repository →](https://github.com/sai-chaitanya-reddy)
+
+---
+
+### 🚗 Car Price Prediction
+- Conducted multicollinearity analysis (VIF) to remove redundant features and improve model stability
+- Applied categorical encoding and regression techniques to predict vehicle market prices
+- Compared multiple regression algorithms and selected the best-performing model based on KPIs
+
+[View Repository →](https://github.com/sai-chaitanya-reddy/car-price-prediction)
+
+---
+
+### 🪔 Diwali Sales Analysis
+- Performed EDA on festive sales data to uncover customer behavior patterns and sales trends
+- Visualized key business insights using Matplotlib and Pandas to support strategic decision-making
+- Identified top-performing product categories and customer segments driving revenue
+
+[View Repository →](https://github.com/sai-chaitanya-reddy/diwali-sales-data-analysis)
+
+---
+
+### 🍎 Apple Products Data Analysis
+- Executed end-to-end data cleaning, exploration, and insight generation on structured Apple product data
+- Identified pricing trends and product performance metrics from real-world dataset
+- Produced clear visualizations and documented findings for business stakeholders
+
+[View Repository →](https://github.com/sai-chaitanya-reddy/apple-products-data-analysis)
 
 ---
 
