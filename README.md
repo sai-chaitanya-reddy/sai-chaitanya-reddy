@@ -130,7 +130,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sai-chaitanya-reddy&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sai-chaitanya-reddy&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/sai-chaitanya-reddy/github-profile-trophy)
 
 </div>
 
