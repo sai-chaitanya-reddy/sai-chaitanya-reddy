@@ -103,16 +103,13 @@ Actively seeking **internships and entry-level roles** in Data Science and Machi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-chaitanya-reddy&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-chaitanya-reddy&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=sai-chaitanya-reddy&theme=dark&hide_border=true" width="60%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-chaitanya-reddy&layout=compact&theme=dark&hide_border=true" width="45%" />
+</p>
 
-## 🏆 Certifications
-
-- Google Data Analytics Professional Certificate — Coursera *(add yours here)*
-- IBM Data Science Professional Certificate — Coursera *(add yours here)*
 
 ---
 
