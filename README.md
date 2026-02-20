@@ -1,119 +1,189 @@
-<h1 align="center">👋 Hi, I'm Sai Chaitanya Reddy</h1>
+<div align="center">
 
-<h3 align="center">Data Science & Machine Learning Engineer | Python · SQL · Scikit-learn · Pandas</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sai%20Chaitanya%20Reddy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sai-chaitanya-reddy-in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/saichaitanyareddyai" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:sai.chaitanya.reddy.in@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-chaitanya-reddy-in/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saichaitanyareddyai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai-chaitanya-reddy)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL@gmail.com)
 
-AI & Data Science graduate specializing in **data analysis, machine learning, and predictive modeling**.
-Experienced in solving real-world business problems using **Python, SQL, and end-to-end ML pipelines**.
-Actively seeking **internships and entry-level roles** in Data Science and Machine Learning.
+![Profile Views](https://komarev.com/ghpvc/?username=sai-chaitanya-reddy&style=flat-square&color=2c5364&label=Profile+Views)
+![Open To Work](https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=flat-square)
 
-- 🎓 **Education**: B.Tech in AI & Data Science *(Vasireddy Venkatadri Institute of Technology)*
-- 📍 **Location**: Hyderabad, India
-- 🔍 **Open To**: Data Science Intern · ML Engineer Intern · Data Analyst · Junior Data Scientist
-- 💡 **Motto**: *Strong data tells strong stories.*
+</div>
 
 ---
 
-## 🛠️ Core Skills & Tech Stack
+## 🧠 About Me
 
-| Category | Tools & Technologies |
-|---|---|
-| **Programming** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn, Feature Engineering, SMOTE |
-| **Techniques** | EDA, Classification, Regression, Model Evaluation, VIF Analysis |
-| **Metrics** | Precision, Recall, F1-Score, ROC-AUC, RMSE, R² Score |
-| **Tools** | Jupyter Notebook, Git, GitHub, Kaggle |
+```python
+class DataScientist:
+    def __init__(self):
+        self.name        = "Sai Chaitanya Reddy"
+        self.degree      = "B.Tech in AI & Data Science"   # ← update your college
+        self.location    = "Hyderabad, India"
+        self.languages   = ["Python", "SQL"]
+        self.focus       = ["Machine Learning", "EDA", "Predictive Modeling"]
+        self.open_to     = ["Data Science Intern", "ML Engineer Intern",
+                            "Data Analyst", "Junior Data Scientist"]
+        self.motto       = "Strong data tells strong stories."
 
----
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something meaningful with data.")
 
-## 📌 Featured Projects
-
-### 🔍 [Fraud Detection ML Pipeline](https://github.com/sai-chaitanya-reddy/fraud-detection-ml-pipeline)
-> End-to-end classification pipeline on highly imbalanced transaction data
-
-- Built full ML pipeline with **data preprocessing, feature engineering, and SMOTE** for class imbalance
-- Evaluated models using **Precision, Recall, F1-Score, and ROC-AUC**
-- Achieved improved fraud detection accuracy with optimized model selection
-- **Tech Stack**: Python · Pandas · Scikit-learn · Jupyter Notebook
+me = DataScientist()
+me.say_hi()
+```
 
 ---
 
-### 📉 [Customer Churn Analysis](https://github.com/sai-chaitanya-reddy/customer-churn-analysis-data)
-> Predictive modeling to identify and reduce customer churn risk
+## 🛠️ Tech Stack
 
-- Conducted **Exploratory Data Analysis (EDA)** to identify key churn drivers
-- Built classification models to predict customer churn probability
-- Generated **actionable business insights** to support retention strategies
-- **Tech Stack**: Python · Pandas · Seaborn · Scikit-learn
+<div align="center">
 
----
+**Languages**
 
-### 🏠 [House Price Prediction](https://github.com/sai-chaitanya-reddy/house-price-prediction)
-> Regression-based real estate price forecasting model
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Developed **regression models** for accurate price prediction
-- Handled missing values, outliers, and applied feature scaling
-- Evaluated using **RMSE and R² score**
-- **Tech Stack**: Python · Pandas · Scikit-learn
+**Data & Analysis**
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚗 [Car Price Prediction](https://github.com/sai-chaitanya-reddy/car-price-prediction)
-> Machine learning model to predict vehicle market prices
+**Machine Learning**
 
-- Performed **EDA, categorical encoding, and multicollinearity analysis (VIF)**
-- Built and compared multiple regression models using evaluation metrics
-- **Tech Stack**: Python · Pandas · Scikit-learn
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
+**Tools & Platforms**
 
-### 🛍️ [Diwali Sales Data Analysis](https://github.com/sai-chaitanya-reddy/diwali-sales-data-analysis)
-> Exploratory analysis of seasonal sales data for business insights
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- Analyzed customer behavior and sales trends from real-world structured data
-- Identified high-value customer segments and top-performing product categories
-- **Tech Stack**: Python · Pandas · Matplotlib · Seaborn
-
----
-
-### 🍎 [Apple Products Data Analysis](https://github.com/sai-chaitanya-reddy/apple-products-data-analysis)
-> End-to-end data analysis on Apple product dataset
-
-- Performed data cleaning, exploration, and insight generation on structured data
-- **Tech Stack**: Python · Pandas · Seaborn
+</div>
 
 ---
 
 ## 📊 GitHub Activity
 
-![](https://img.shields.io/badge/Repositories-10-blue?style=flat-square&logo=github)
-![](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python)
-![](https://img.shields.io/badge/Focus-Machine%20Learning-green?style=flat-square)
-![](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
+<div align="center">
 
-## 📫 Let's Connect
+| 📁 Repositories | 💬 Language | 🔁 Commits | 🎯 Focus |
+|:---:|:---:|:---:|:---:|
+| 10 Public Repos | Python | 35+ in Feb 2026 | Machine Learning |
 
-I'm actively looking for **Data Science / ML internship or entry-level opportunities**.
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sai-chaitanya-reddy-in/) or [Kaggle](https://www.kaggle.com/saichaitanyareddyai).
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sai-chaitanya-reddy&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔍 Fraud Detection ML Pipeline
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/sai-chaitanya-reddy/fraud-detection-ml-pipeline)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+End-to-end classification pipeline on imbalanced transaction data using SMOTE, feature engineering, and model evaluation with **Precision, Recall, F1-Score, ROC-AUC**.
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📉 Customer Churn Analysis
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/sai-chaitanya-reddy/customer-churn-analysis-data)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+Predictive model to classify churn risk using EDA, feature analysis, and classification algorithms. Generated actionable retention insights.
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/sai-chaitanya-reddy/house-price-prediction)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+Regression model for real-estate price forecasting. Handled outliers, missing values, and feature scaling. Evaluated with **RMSE and R² score**.
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🚗 Car Price Prediction
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/sai-chaitanya-reddy/car-price-prediction)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+ML model using categorical encoding, VIF multicollinearity analysis, and regression comparison to predict vehicle market prices.
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛍️ Diwali Sales Analysis
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/sai-chaitanya-reddy/diwali-sales-data-analysis)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+EDA on seasonal sales data to uncover customer behavior patterns, high-value segments, and top product categories.
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🍎 Apple Products Analysis
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/sai-chaitanya-reddy/apple-products-data-analysis)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+End-to-end data analysis on Apple product dataset with data cleaning, exploration, and business insight generation.
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Certifications
+
+| Certificate | Platform | Status |
+|---|---|---|
+| Google Data Analytics Professional | Coursera | *(add if completed)* |
+| IBM Data Science Professional | Coursera | *(add if completed)* |
+| *(Add your actual certifications here)* | | |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I am actively looking for **Data Science and Machine Learning internship or entry-level opportunities**.
+I bring hands-on project experience, strong Python skills, and a results-driven mindset.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-chaitanya-reddy-in/)
+[![Kaggle](https://img.shields.io/badge/View%20my%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saichaitanyareddyai)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
