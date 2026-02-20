@@ -100,18 +100,12 @@ Actively seeking **internships and entry-level roles** in Data Science and Machi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sai-chaitanya-reddy&theme=dark&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-chaitanya-reddy&layout=compact&theme=dark&hide_border=true" width="45%" />
-</p>
-
-
----
+![](https://img.shields.io/badge/Repositories-10-blue?style=flat-square&logo=github)
+![](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python)
+![](https://img.shields.io/badge/Focus-Machine%20Learning-green?style=flat-square)
+![](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
 
 ## 📫 Let's Connect
 
